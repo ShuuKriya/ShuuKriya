@@ -1,4 +1,4 @@
-this is my first repo.
+this is my first repo. <br>
 I am looking forward to learn more 
 <!---
 ShuuKriya/ShuuKriya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
